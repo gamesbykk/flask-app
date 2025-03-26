@@ -1,2 +1,9 @@
-Flask
-Gunicorn
+flask
+gunicorn
+crewai
+langchain
+langchain_community
+langchain_openai
+python-dotenv
+markdown2
+duckduckgo-search
